@@ -1,0 +1,252 @@
+@media (max-width: 360px) {
+
+    .header__inner {
+        max-height: 55px;
+       }
+
+    .middle__text {
+        margin: 40px auto;
+        max-width: 365px;
+        font-size: 20px;
+       }
+
+       .logo img {
+        width: 40px;
+   }
+
+   .fudziamaimg {
+    width: 300px;
+  }
+
+  .grandimg{
+    width: 300px; 
+  }
+
+  .hesusimg{
+    width: 300px; 
+  }
+
+  .lofotimg{
+    width: 300px; 
+  }
+
+  .box__fudzi-text {
+    width: 300px;
+  }
+  
+  .box__fudzi {
+     height: 280px;
+  }
+  
+  .box__grand-text {
+    width: 300px;
+  }
+  
+  .box__grand {
+    height: 280px;
+  }
+  
+  .box__hesus-text {
+    width: 300px;
+  }
+
+  .box__hesus {
+    height: 280px;
+  }
+  
+  .box__lofot-text {
+    width: 300px;
+  }
+  
+  .box__lofot {
+    height: 280px;
+  }
+
+  .box__fudzi-text {
+    padding-top: 10px;
+    margin: 25px auto;
+  }
+
+  
+
+
+
+
+
+
+
+
+  .japanflagimg {
+    width: 300px;
+  }
+
+  
+  .fudzigoraimg {
+    width: 300px;
+  }
+
+  .youtube__player-size {
+      width: 300px;
+      height: 170px;
+  }
+
+  .middle__text-country {
+    font-size: 60px;
+    margin: 50px auto;
+  }
+
+  .japan__text-country p{
+    font-size: 25px;
+  }
+
+  .middle__text-video {
+    font-size: 35px;
+    padding-top: 50px;
+  }
+
+  .middle__text-place {
+    font-size: 30px;
+    padding-right: 0;
+    margin-top: 0;
+  }
+
+  .youtube__player {
+    margin-top: 40px;
+  }
+
+
+  
+
+
+
+
+
+
+
+
+  .americaflagimg {
+    width: 300px;
+  }
+
+  
+  .americawellimg {
+    width: 300px;
+  }
+
+  .youtube__player-size {
+      width: 300px;
+      height: 170px;
+  }
+
+  .middle__text-country {
+    font-size: 60px;
+    margin: 50px auto;
+  }
+
+  .japan__text-country p{
+    font-size: 25px;
+  }
+
+  .middle__text-video {
+    font-size: 35px;
+    padding-top: 50px;
+  }
+
+  .middle__text-place {
+    font-size: 30px;
+    padding-right: 0;
+    margin-top: 0;
+  }
+
+  .youtube__player {
+    margin-top: 40px;
+  }
+
+
+
+
+
+
+
+  .brazillflagimg {
+    width: 300px;
+  }
+
+  
+  .jesuslohimg {
+    width: 300px;
+  }
+
+  .youtube__player-size {
+      width: 300px;
+      height: 170px;
+  }
+
+  .middle__text-country {
+    font-size: 60px;
+    margin: 50px auto;
+  }
+
+  .japan__text-country p{
+    font-size: 25px;
+  }
+
+  .middle__text-video {
+    font-size: 35px;
+    padding-top: 50px;
+  }
+
+  .middle__text-place {
+    font-size: 30px;
+    padding-right: 0;
+    margin-top: 0;
+  }
+
+  .youtube__player {
+    margin-top: 40px;
+  }
+
+
+
+
+
+
+
+  .norwayflagimg {
+    width: 300px;
+  }
+
+  
+  .norwaylofostimg  {
+    width: 300px;
+  }
+
+  .youtube__player-size {
+      width: 300px;
+      height: 170px;
+  }
+
+  .middle__text-country {
+    font-size: 60px;
+    margin: 50px auto;
+  }
+
+  .japan__text-country {
+    font-size: 25px;
+  }
+
+  .middle__text-video {
+    font-size: 35px;
+    padding-top: 50px;
+  }
+
+  .middle__text-place {
+    font-size: 30px;
+    padding-right: 0;
+    margin-top: 0;
+  }
+
+  .youtube__player {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,280 @@
+@media (max-width: 480px) {
+    .conteiner{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .header__inner {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .users {
+        margin-right: 10px;
+    }
+     .logo {
+        margin-left: 0;
+
+     }
+
+     .header__inner {
+        max-height: 90px;
+       }
+
+       .middle__text {
+        margin: 50px auto;
+        max-width: 470px;
+        font-size: 30px;
+       }
+
+       .logo img {
+            width: 60px;
+       }
+
+       .menu__list {
+        width: 360px;
+        z-index: 2;
+       }
+      
+       .box__fudzi-text {
+        font-size: 20px;
+        width: 350px;
+        padding-top: 30px;
+        margin: 25px auto;
+      }
+      
+      .box__fudzi {
+        min-width: 100%;
+        height: 350px;
+      }
+      
+      .box__grand-text {
+        font-size: 20px;
+        width: 350px;
+        padding-top: 30px;
+        margin: 25px auto;
+      }
+      
+      .box__grand {
+        min-width: 100%;
+        height: 350px;
+      }
+      
+      .box__hesus-text {
+        font-size: 20px;
+        width: 350px;
+        padding-top: 30px;
+        margin: 25px auto;
+      }
+      
+      .box__hesus {
+        min-width: 100%;
+        height: 350px;
+      }
+      
+      .box__lofot-text {
+        font-size: 20px;
+        width: 350px;
+        padding-top: 30px;
+        margin: 25px auto;
+      }
+      
+      .box__lofot {
+        min-width: 100%;
+        height: 350px;
+      }
+      
+      .fudziamaimg {
+        width: 360px;
+      }
+      
+      .grandimg{
+        width: 360px; 
+      }
+      
+      .hesusimg{
+        width: 360px; 
+      }
+      
+      .lofotimg{
+        width: 360px; 
+      }
+      
+      .middle__text{
+        margin: 50px auto;
+      }
+
+
+
+
+
+
+
+
+      .japanflagimg {
+        width: 360px;
+      }
+    
+      
+      .fudzigoraimg {
+        width: 360px;
+      }
+    
+      .youtube__player-size {
+          width: 360px;
+          height: 205px;
+      }
+    
+      .middle__text-country {
+        font-size: 70px;
+        margin: 50px auto;
+      }
+    
+      .japan__text-country p{
+        font-size: 30px;
+      }
+    
+      .middle__text-video {
+        font-size: 50px;
+        padding-top: 50px;
+      }
+    
+      .middle__text-place {
+        font-size: 35px;
+        padding-right: 0;
+        margin-top: 30px;
+      }
+    
+      .youtube__player {
+        margin-top: 50px;
+      }
+
+
+
+
+
+      .americaflagimg {
+        width: 360px;
+      }
+    
+      
+      .americawellimg {
+        width: 360px;
+      }
+    
+      .youtube__player-size {
+          width: 360px;
+          height: 205px;
+      }
+    
+      .middle__text-country {
+        font-size: 70px;
+        margin: 50px auto;
+      }
+    
+      .japan__text-country p{
+        font-size: 30px;
+      }
+    
+      .middle__text-video {
+        font-size: 50px;
+        padding-top: 50px;
+      }
+    
+      .middle__text-place {
+        font-size: 35px;
+        padding-right: 0;
+        margin-top: 30px;
+      }
+    
+      .youtube__player {
+        margin-top: 50px;
+      }
+
+
+
+
+
+
+
+      .brazillflagimg {
+        width: 360px;
+      }
+    
+      
+      .jesuslohimg {
+        width: 360px;
+      }
+    
+      .youtube__player-size {
+          width: 360px;
+          height: 205px;
+      }
+    
+      .middle__text-country {
+        font-size: 70px;
+        margin: 50px auto;
+      }
+    
+      .japan__text-country p{
+        font-size: 30px;
+      }
+    
+      .middle__text-video {
+        font-size: 50px;
+        padding-top: 50px;
+      }
+    
+      .middle__text-place {
+        font-size: 35px;
+        padding-right: 0;
+        margin-top: 30px;
+      }
+    
+      .youtube__player {
+        margin-top: 50px;
+      }
+
+
+
+
+
+
+      .norwayflagimg {
+        width: 360px;
+      }
+    
+      
+      .norwaylofostimg {
+        width: 360px;
+      }
+    
+      .youtube__player-size {
+          width: 360px;
+          height: 205px;
+      }
+    
+      .middle__text-country {
+        font-size: 70px;
+        margin: 50px auto;
+      }
+    
+      .japan__text-country {
+        font-size: 30px;
+      }
+    
+      .middle__text-video {
+        font-size: 50px;
+        padding-top: 50px;
+      }
+    
+      .middle__text-place {
+        font-size: 35px;
+        padding-right: 0;
+        margin-top: 30px;
+      }
+    
+      .youtube__player {
+        margin-top: 50px;
+      }
+}

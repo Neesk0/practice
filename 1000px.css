@@ -1,0 +1,194 @@
+@media (max-width: 1000px) {
+
+    .users {
+     margin-right: 50px;
+    }
+ 
+    .logo {
+     margin-left: 40px;
+  
+    }
+ 
+    .header__inner {
+     max-height: 120px;
+    }
+ 
+    .box__fudzi-text {
+     font-size: 30px;
+     width: 680px;
+     padding-top: 50px;
+     margin: 50px auto;
+ 
+   }
+ 
+   .box__fudzi {
+     max-width: 100%;
+     height: 670px;
+   }
+ 
+   .box__grand-text {
+     font-size: 30px;
+     width: 680px;
+     padding-top: 50px;
+     margin: 50px auto;
+ 
+   }
+ 
+   .box__grand {
+     max-width: 100%;
+     height: 670px;
+   }
+ 
+   .box__hesus-text {
+     font-size: 30px;
+     width: 680px;
+     padding-top: 50px;
+     margin: 50px auto;
+ 
+   }
+ 
+   .box__hesus {
+     max-width: 100%;
+     height: 670px;
+   }
+ 
+   .box__lofot-text {
+     font-size: 30px;
+     width: 680px;
+     padding-top: 50px;
+     margin: 50px auto;
+ 
+   }
+ 
+   .box__lofot {
+     max-width: 100%;
+     height: 670px;
+   }
+ 
+   .fudziamaimg {
+     width: 800px;
+   }
+ 
+   .grandimg{
+     width: 800px; 
+   }
+ 
+   .hesusimg{
+     width: 800px; 
+   }
+ 
+   .lofotimg{
+     width: 800px; 
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .japanflagimg {
+    width: 750px;
+  }
+
+  
+  .fudzigoraimg {
+    width: 750px;
+  }
+
+  .youtube__player-size {
+        width: 750px;
+        height: 425px;
+  }
+
+  .middle__text-place {
+    font-size: 70px;
+    padding-right: 0;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  .americaflagimg {
+    width: 750px;
+  }
+
+  
+  .americawellimg {
+    width: 750px;
+  }
+
+  .youtube__player-size {
+        width: 750px;
+        height: 425px;
+  }
+
+  .middle__text-place {
+    font-size: 70px;
+    padding-right: 0;
+  }
+
+
+
+
+
+
+  .brazillflagimg {
+    width: 750px;
+  }
+
+  
+  .jesuslohimg {
+    width: 750px;
+  }
+
+  .youtube__player-size {
+        width: 750px;
+        height: 425px;
+  }
+
+  .middle__text-place {
+    font-size: 70px;
+    padding-right: 0;
+  }
+
+
+
+
+
+
+  .norwayflagimg {
+    width: 750px;
+  }
+
+  
+  .norwaylofostimg {
+    width: 750px;
+  }
+
+  .youtube__player-size {
+        width: 750px;
+        height: 425px;
+  }
+
+  .middle__text-place {
+    font-size: 70px;
+    padding-right: 0;
+  }
+ }
